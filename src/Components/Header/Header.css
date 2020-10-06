@@ -1,0 +1,13 @@
+.menu_li{
+    margin: 0 21px;
+    line-height: 70px ;
+}
+.nav_li{
+    color: #000000;
+    font-size: 18px;
+}
+.nav_li:hover{
+    color: #000000;
+    text-decoration: none;
+    
+}
